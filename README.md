@@ -3,7 +3,7 @@
 <spam style=
     "@font-face {
         font-family: 'digital';
-        stc: url('font.ttf') format('opentype');
+        stc: url('font.ttf'), format('opentype');
         font-weight: normal;
         font-style: normal;
     };
