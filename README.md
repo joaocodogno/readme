@@ -6,7 +6,7 @@
         stc: url('font.ttf') format('opentype');
         font-weight: normal;
         font-style: normal;
-    }
+    };
     color: rgba(66, 201, 32, 1)">
     [name]: Joao Codogno    
 </spam>
